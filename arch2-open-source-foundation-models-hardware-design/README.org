@@ -1,0 +1,42 @@
+* Course: arch2-open-source-foundation-models-hardware-design
+** Week 1: Introduction to Architecture 2.0
+*** Lecture 1: Challenges in Hardware Design
+**** Discuss high costs, long development cycles, and error risks
+**** Filename: hardware-design-challenges.org
+*** Lecture 2: Architecture 2.0 Overview
+**** Introduce Architecture 2.0 and its goals
+**** Explain the role of open source foundation models and datasets
+**** Filename: architecture-2.0-overview.org
+*** Lecture 3: Hardware-Oriented Datasets
+**** Discuss the importance of hardware-oriented datasets
+**** Provide examples of datasets (RTL code, netlists, layouts, performance metrics)
+**** Filename: hardware-oriented-datasets.org
+*** Lab 1: Exploring Hardware Datasets
+**** Explore and analyze sample hardware datasets
+**** Filename: explore-hardware-datasets.py
+
+** Week 2: Collaboration and Open Source Practices
+*** Lecture 4: Cross-Disciplinary Partnerships
+**** Discuss the importance of collaboration in Architecture 2.0
+**** Highlight the role of cross-disciplinary partnerships in open source domain
+**** Filename: cross-disciplinary-partnerships.org
+*** Lecture 5: Open Source Practices in Foundation Models and Datasets
+**** Explain the benefits of adopting open source practices
+**** Discuss how open source accelerates progress and fosters collaboration
+**** Filename: open-source-practices.org
+*** Lab 2: Contributing to Open Source Hardware Projects
+**** Explore and contribute to open source hardware projects
+**** Filename: contribute-to-open-source.sh
+*** Final Project: Designing Hardware using Open Source Tools and Datasets
+**** Apply the knowledge gained throughout the course
+**** Design a simple hardware component using open source tools and datasets
+**** Filename: final-project.v
+
+** Questions for Students
+1. What are the main challenges in hardware design, and how does Architecture 2.0 aim to address them?
+2. Why are hardware-oriented datasets crucial for the success of Architecture 2.0?
+3. How do cross-disciplinary partnerships in the open source domain contribute to the development of Architecture 2.0?
+4. What are the benefits of adopting open source practices in developing foundation models and datasets for hardware design?
+5. How can the open source hardware community work together to realize the goals of Architecture 2.0?
+
+

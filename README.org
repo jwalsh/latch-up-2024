@@ -86,7 +86,7 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 - https://www.chisel-lang.org/docs/cookbooks/cookbook
 
 
-** TODO MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
+** DONE MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
 ** TODO Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
 ** TODO [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
 ** TODO Riding The Wave: Building Wave Pipelines in FPGAs
