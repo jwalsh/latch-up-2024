@@ -46,27 +46,38 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 
 #+begin_quote
 Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. 
+
+Ensure the directory name is on a single line to simplify cut and paste.
+
+All code examples should induced a suggested filename to save to the directory.
+
+Suggest questions the student should be able to answer at the end of the course. 
 #+end_quote
 
 ** Tutorials 
 
 * Friday Sessions
-** Caster: An Open-source E-Ink Controller
+** DONE Caster: An Open-source E-Ink Controller
 
 - https://gitlab.com/zephray/glider
 - https://gitlab.com/zephray/caster
 
-** Teaching Modern EDA using a Tapeout-Centric University Course
+** DONE Teaching Modern EDA using a Tapeout-Centric University Course
 
 - Open PDK + OpenLane RTL-to-GDS
 - Physics and Stats students interested 
 
-** CedarEDA for open source silicon
+** DONE CedarEDA for open source silicon
 
 - https://cedar-eda.com/
 - https://github.com/CedarEDA/CMC.jl
+- https://github.com/JuliaComputing
+- https://github.com/Keno
 
-** Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
+
+** TODO Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
+
+
 ** Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
 ** Towards Cycle-accurate Simulation of xBGAS
 ** Artifact Evaluation for the Field Programmable Gate Array Community
