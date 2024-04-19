@@ -1,0 +1,40 @@
+* exploring-cheri-for-embedded-applications
+** Week 1
+*** Introduction to CHERI and memory safety
+**** What is CHERI?
+**** Memory safety vulnerabilities and their impact
+**** Benefits of CHERI for embedded systems
+**** Suggested reading: cheri-overview.pdf
+
+*** The Sonata development platform
+**** Overview of the Sonata platform
+**** Open-source FPGA development board
+**** User-friendly reference SoC design
+**** Demo applications
+**** Suggested code: sonata-setup.sh
+
+** Week 2
+*** Hands-on exploration with Sonata
+**** Setting up the Sonata development environment
+**** Building and running demo applications
+**** Analyzing memory safety with CHERI
+**** Suggested code: demo-app.c, cheri-analysis.py
+
+*** Integrating CHERI into existing codebases
+**** Identifying memory safety vulnerabilities
+**** Modifying code to utilize CHERI capabilities
+**** Measuring the impact of CHERI on performance and security
+**** Suggested code: legacy-app.c, cheri-integration.md
+
+*** Course summary and next steps
+**** Recap of key concepts and benefits of CHERI
+**** Resources for further learning and engagement
+**** Contributing to the Sonata project
+**** Suggested reading: cheri-resources.md
+
+**** Questions for students
+1. What are the main benefits of using CHERI for memory safety in embedded systems?
+2. How does the Sonata platform facilitate the adoption of CHERI technology?
+3. What steps are involved in integrating CHERI into an existing codebase?
+4. How can developers measure the impact of CHERI on performance and security?
+5. What opportunities exist for contributing to the Sonata project and advancing CHERI adoption?
