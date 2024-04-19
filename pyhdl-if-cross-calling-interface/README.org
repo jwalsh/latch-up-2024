@@ -1,0 +1,60 @@
+* pyhdl-if-cross-calling-interface
+** Overview
+   This two-week course explores the PyHDL-IF family of Python libraries, which provide an easy-to-use interface for cross-calling between Python and HDL environments. The course covers the following topics:
+   - Introduction to Python and HDL interfacing
+   - Challenges in integrating Python with SystemVerilog and UVM testbenches
+   - PyHDL-IF libraries and their benefits
+   - Incorporating Python in SystemVerilog environments using PyHDL-IF
+   - Interacting with HDL environments from cocotb using PyHDL-IF
+   - Hands-on exercises and examples
+
+** Prerequisites
+   - Basic knowledge of Python programming
+   - Familiarity with Verilog, VHDL, and SystemVerilog
+   - Understanding of testbench methodologies (e.g., UVM)
+
+** Course Outline
+   Week 1:
+   - Day 1: Introduction to Python and HDL interfacing
+   - Day 2: Challenges in integrating Python with SystemVerilog and UVM testbenches
+   - Day 3: PyHDL-IF libraries and their benefits
+   - Day 4: Setting up the PyHDL-IF development environment
+   - Day 5: Hands-on exercise: Basic Python-HDL cross-calling
+
+   Week 2:
+   - Day 1: Incorporating Python in SystemVerilog environments using PyHDL-IF
+   - Day 2: Interacting with HDL environments from cocotb using PyHDL-IF
+   - Day 3: Advanced PyHDL-IF techniques and best practices
+   - Day 4: Hands-on exercise: Integrating Python reference models with SystemVerilog testbenches
+   - Day 5: Course review, Q&A, and next steps
+
+** Suggested Code
+   Example Python code for cross-calling with SystemVerilog using PyHDL-IF:
+
+   #+BEGIN_SRC python
+   from pyhdl_if import *
+
+   @sv_task
+   def my_python_task(a: int, b: int) -> int:
+       return a + b
+
+   @sv_task
+   def my_python_task_with_delay(a: int, b: int, delay: int) -> int:
+       yield delay
+       return a + b
+   #+END_SRC
+
+   Example SystemVerilog code for calling Python tasks using PyHDL-IF:
+
+   #+BEGIN_SRC systemverilog
+   import "DPI-C" function int my_python_task(int a, int b);
+   import "DPI-C" task my_python_task_with_delay(int a, int b, int delay);
+
+   initial begin
+       int result;
+       result = my_python_task(1, 2);
+       $display("Result: %0d", result);
+       my_python_task_with_delay(3, 4, 10);
+       $display("Result after delay: %0d", result);
+   end
+   #+END_SRC
