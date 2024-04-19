@@ -1,0 +1,45 @@
+* chisel-6-and-beyond
+
+** Course Overview
+   - Introduction to Chisel and its role in hardware design
+   - Benefits of using Chisel for hardware generators
+   - Recap of MLIR FIRRTL compiler discussed at Latch Up last year
+
+** Chisel 6 New Features
+   - Feature 1
+     - Explanation
+     - Code examples
+     - Benefits for verification and non-design aspects
+   - Feature 2
+     - Explanation
+     - Code examples
+     - Benefits for verification and non-design aspects
+   - Feature 3
+     - Explanation
+     - Code examples
+     - Benefits for verification and non-design aspects
+
+** Chisel 7 Preview
+   - Upcoming features in Chisel 7
+     - Feature 1
+       - Explanation
+       - Potential benefits
+     - Feature 2
+       - Explanation
+       - Potential benefits
+   - Roadmap and timeline for Chisel 7 release
+
+** Hands-on Exercises
+   - Exercise 1: Utilizing Chisel 6 features for improved verification
+     - Problem statement
+     - Step-by-step guide
+     - Solution and explanation
+   - Exercise 2: Exploring non-design aspects using Chisel 6
+     - Problem statement
+     - Step-by-step guide
+     - Solution and explanation
+
+** Resources and Further Reading
+   - Chisel documentation
+   - Relevant research papers
+   - Community forums and support channels

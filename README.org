@@ -42,18 +42,30 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
    - Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
 
 * Meta
+** Prompts 
 
+#+begin_quote
 Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. 
+#+end_quote
 
+** Tutorials 
 
 * Friday Sessions
 ** Caster: An Open-source E-Ink Controller
+
+- https://gitlab.com/zephray/glider
+- https://gitlab.com/zephray/caster
+
 ** Teaching Modern EDA using a Tapeout-Centric University Course
 
 - Open PDK + OpenLane RTL-to-GDS
 - Physics and Stats students interested 
 
 ** CedarEDA for open source silicon
+
+- https://cedar-eda.com/
+- https://github.com/CedarEDA/CMC.jl
+
 ** Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
 ** Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
 ** Towards Cycle-accurate Simulation of xBGAS
