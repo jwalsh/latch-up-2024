@@ -41,6 +41,10 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
    - Chat room link: https://fossi-foundation.org/latch-up/2024#latchup2024:fossi-foundation.org
    - Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
 
+* Meta
+
+Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. 
+
 
 * Friday Sessions
 ** Caster: An Open-source E-Ink Controller
