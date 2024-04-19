@@ -1,0 +1,37 @@
+* Course: Program Proofs with Dafny
+
+** Week 1: Introduction to Program Verification and Dafny
+   - Overview of formal reasoning about programs
+   - Introduction to the Dafny programming language
+   - Setting up the Dafny development environment
+   - Suggested code: ~hello_world.dfy~ (simple Dafny program)
+
+** Week 1: Writing Specifications and Proofs
+   - Writing specifications for programs
+   - Understanding program satisfaction of specifications
+   - Writing proofs connecting specifications and programs
+   - Suggested code: ~max_function.dfy~ (function with specification and proof)
+
+** Week 2: Complex Concepts and Applications
+   - Gradual introduction to complex concepts
+   - Applying program proofs to real programs
+   - Using objects, data structures, and non-trivial recursion
+   - Suggested code: ~binary_search_tree.dfy~ (verified BST implementation)
+
+** Week 2: Functional and Imperative Programming
+   - Specifying and verifying functional programs
+   - Specifying and verifying imperative programs
+   - Comparing and contrasting approaches
+   - Suggested code: ~factorial.dfy~ (functional), ~array_sum.dfy~ (imperative)
+
+** Final Project
+   - Develop a non-trivial verified program using Dafny
+   - Demonstrate understanding of specifications, proofs, and complex concepts
+   - Present the verified program and explain the reasoning behind it
+
+** Questions for Students
+   1. What does it mean to formally reason about computer programs?
+   2. How does Dafny support writing specifications and proofs?
+   3. What is the difference between program specifications and program implementations?
+   4. How can complex concepts like objects, data structures, and recursion be verified?
+   5. What are the key differences between verifying functional and imperative programs?
