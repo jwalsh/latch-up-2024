@@ -1,0 +1,62 @@
+* xbgas-cheri-course
+** README.org
+#+TITLE: Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
+
+* Course Overview
+This two-week course explores the integration of the Extended Base Global Address Space (xBGAS) Runtime with CHERI-enabled ARM Morello platforms. It focuses on adapting xBGAS to work seamlessly with CHERI's hardware-enforced bounds and capabilities while leveraging a universal threading model using pthreads and thread pooling techniques.
+
+* Course Objectives
+By the end of this course, students should be able to:
+1. Understand the concepts of capabilities-based security and the global address space programming model.
+2. Explain the benefits and challenges of integrating xBGAS with CHERI-enabled platforms.
+3. Implement thread pooling techniques using pthreads for architecture-independent runtime simulation.
+4. Evaluate the performance gains and overhead reductions achieved through cross-platform adaptations.
+
+* Course Outline
+** Week 1: Introduction to xBGAS and CHERI
+   - Overview of the Extended Base Global Address Space (xBGAS) Runtime
+   - Introduction to CHERI and capabilities-based security
+   - Exploring the benefits of integrating xBGAS with CHERI-enabled ARM Morello platforms
+
+** Week 2: Adapting xBGAS for CHERI Compatibility
+   - Transitioning from platform-specific mechanisms to a universal threading model
+   - Implementing thread pooling techniques using pthreads
+   - Evaluating performance gains and overhead reductions
+   - Discussing future research opportunities in hybrid memory systems on capability hardware
+
+* Code Examples
+** ~xbgas_cheri_threading.c~
+#+BEGIN_SRC c
+// Example code demonstrating thread pooling using pthreads for xBGAS on CHERI
+#include <pthread.h>
+
+void *worker_thread(void *arg) {
+    // Thread pool worker implementation
+}
+
+int main() {
+    pthread_t thread_pool[NUM_THREADS];
+    
+    // Create thread pool
+    for (int i = 0; i < NUM_THREADS; i++) {
+        pthread_create(&thread_pool[i], NULL, worker_thread, NULL);
+    }
+    
+    // Wait for threads to complete
+    for (int i = 0; i < NUM_THREADS; i++) {
+        pthread_join(thread_pool[i], NULL);
+    }
+    
+    return 0;
+}
+#+END_SRC
+
+* Evaluation and Assessment
+- Hands-on exercises to adapt xBGAS for CHERI compatibility
+- Performance analysis of the adapted xBGAS runtime on CHERI-enabled platforms
+- Final project: Implementing a hybrid memory system using xBGAS on CHERI
+
+* Resources
+- Research papers on xBGAS and CHERI
+- Documentation on pthreads and thread pooling techniques
+- ARM Morello platform documentation
