@@ -1,43 +1,37 @@
 * fpga-wave-pipelines
 
-** Course Overview
+** README.org
+
+*** Course Overview
    - Introduction to wave pipelining in FPGAs
    - Comparison of wave pipelines to classical pipelines
    - Advantages of wave pipelines
-   - Overview of the course project
+   - SpinalHDL and manual placement techniques for wave pipeline construction
 
-** Week 1: Foundations of Wave Pipelining
-   - Understanding the principles of wave pipelining
-   - Exploring existing research on wave pipelines
-   - Introduction to SpinalHDL for wave pipeline construction
-   - Hands-on exercise: Setting up the development environment
-     - Suggested code: ~setup_environment.sh~
+*** Week 1: Fundamentals of Wave Pipelining
+    - Understanding wave pipelining concepts
+    - Comparing wave pipelines to classical pipelines
+    - Exploring existing research on wave pipelines
+    - Hands-on exercise: Implementing a simple wave pipeline (wave_pipeline_simple.scala)
 
-** Week 2: Building and Optimizing Wave Pipelines
-   - Constructing a wave pipeline using SpinalHDL
-     - Suggested code: ~wave_pipeline.scala~
-   - Applying manual placement techniques for optimization
-     - Suggested code: ~manual_placement.tcl~
-   - Implementing a multiplier wave pipeline example
-     - Suggested code: ~multiplier_wave_pipeline.scala~
-   - Testing and evaluating the performance of wave pipelines
-     - Suggested code: ~test_wave_pipeline.scala~
+*** Week 2: Advanced Wave Pipeline Construction
+    - Leveraging SpinalHDL for wave pipeline design
+    - Applying manual placement techniques for optimization
+    - Testing and benchmarking wave pipelines
+    - Hands-on exercise: Building a multiplier wave pipeline (multiplier_wave_pipeline.scala)
 
-** Project: Developing a Custom Wave Pipeline
-   - Objective: Design and implement a custom wave pipeline in an FPGA
-   - Requirements:
-     - Utilize SpinalHDL for wave pipeline construction
-     - Apply manual placement techniques for optimization
-     - Evaluate the performance and compare it to a classical pipeline
-   - Deliverables:
-     - SpinalHDL code for the custom wave pipeline
-     - Documentation of the design process and optimization techniques
-     - Performance analysis and comparison report
+*** Suggested Questions
+    1. What are the key differences between wave pipelines and classical pipelines?
+    2. How does wave pipelining enable higher performance in FPGA designs?
+    3. What role does SpinalHDL play in constructing wave pipelines?
+    4. How can manual placement techniques be used to optimize wave pipeline performance?
+    5. What are the potential applications and benefits of wave pipelines in FPGA development?
 
-** Learning Outcomes
-   By the end of this course, students should be able to:
-   - Explain the principles and advantages of wave pipelining in FPGAs
-   - Construct wave pipelines using SpinalHDL
-   - Apply manual placement techniques to optimize wave pipeline designs
-   - Analyze and compare the performance of wave pipelines to classical pipelines
-   - Design and implement custom wave pipelines in FPGAs
+*** Relevant Code Examples
+    - wave_pipeline_simple.scala: A simple wave pipeline implementation
+    - multiplier_wave_pipeline.scala: A multiplier wave pipeline example
+
+*** Additional Resources
+    - Link to the project for testing wave pipelines
+    - Research papers and articles on wave pipelining techniques
+    - SpinalHDL documentation and tutorials
