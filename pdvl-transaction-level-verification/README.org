@@ -1,0 +1,31 @@
+* Course: pdvl-transaction-level-verification
+
+** Week 1: Introduction to PDVL and Deductive Formal Verification (DFV)
+   
+   - Overview of open-source DFV projects
+   - Introduction to the Programming Design and Verification Language (PDVL)
+   - Benefits of PDVL's aspect-oriented and transaction-level approach
+   - Setting up the PDVL environment
+
+   Suggested code:
+   - Installation script: ~install_pdvl.sh~
+   - Hello World example: ~hello_world.pdvl~
+
+** Week 2: Transforming Design and Verification Goals with PDVL
+   
+   - Transforming design and verification goals into Gallina code
+   - Using Gallina code for assertions and theorem proving with The Rocq Prover (Coq)
+   - Exploring PDVL examples from the ~PDVL_Examples~ repository
+   - Compiling PDVL code using the MRPHS compiler
+
+   Suggested code:
+   - Example verification project: ~example_project.pdvl~
+   - Compilation script: ~compile_pdvl.sh~
+
+** Questions for Students
+
+   1. What are the key benefits of using PDVL for transaction-level deductive formal verification?
+   2. How does PDVL's aspect-oriented approach help in transforming design and verification goals?
+   3. What is the role of Gallina code in the PDVL verification process?
+   4. How can you use The Rocq Prover (Coq) for assertions and theorem proving with PDVL-generated Gallina code?
+   5. What is the purpose of the MRPHS compiler in the PDVL workflow?

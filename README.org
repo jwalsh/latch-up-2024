@@ -82,18 +82,22 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 
 ** DONE Artifact Evaluation for the Field Programmable Gate Array Community
 ** DONE Chisel 6 and beyond
-** MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
-** Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
-** [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
-** Riding The Wave: Building Wave Pipelines in FPGAs
-** Giving Students A Byte of Open-Source: Advancing Hardware Education
-** Open-source resources for learning the Bluespec HL-HDLs
-** PyHDL-IF: An Easy-to-Use Python/HDL Cross-Calling Interface
+
+- https://www.chisel-lang.org/docs/cookbooks/cookbook
+
+
+** TODO MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
+** TODO Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
+** TODO [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
+** TODO Riding The Wave: Building Wave Pipelines in FPGAs
+** TODO Giving Students A Byte of Open-Source: Advancing Hardware Education
+** TODO Open-source resources for learning the Bluespec HL-HDLs
+** TODO PyHDL-IF: An Easy-to-Use Python/HDL Cross-Calling Interface
 
 - https://pyhdl.readthedocs.io/en/latest/
 
-** Talks at Draper
-** Lightning Talks at VenCaf
+** TODO Talks at Draper
+** TODO Lightning Talks at VenCaf
 
 * Saturday Sessions
 ** Open source RTL verification with Verilator
