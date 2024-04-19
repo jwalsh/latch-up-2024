@@ -45,6 +45,9 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 * Friday Sessions
 ** Caster: An Open-source E-Ink Controller
 ** Teaching Modern EDA using a Tapeout-Centric University Course
+
+- Open PDK + OpenLane RTL-to-GDS
+
 ** CedarEDA for open source silicon
 ** Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
 ** Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
