@@ -1,0 +1,51 @@
+* bluespec-riscv-open-source-learning
+
+** Overview
+  This two-week course provides an introduction to the Bluespec High-Level Hardware Design Languages (HL-HDLs) and RISC-V architecture using free and open-source resources. Participants will learn the basics of Bluespec HL-HDLs, RISC-V principles, and simple pipelined CPU design.
+
+** Course Materials
+  - Textbook: [[https://example.com/bluespec-riscv-textbook][Bluespec and RISC-V: A Beginner's Guide]]
+  - Slides: [[https://example.com/bluespec-riscv-slides][Bluespec and RISC-V Course Slides]]
+  - Code Repository: [[https://github.com/example/bluespec-riscv-code][Bluespec and RISC-V Example Code]]
+
+** Schedule
+  *** Week 1
+      - Introduction to Bluespec HL-HDLs
+      - Basic RISC-V architecture and instruction set
+      - Bluespec coding exercises
+  *** Week 2
+      - Pipelined CPU design principles
+      - Implementing a simple RISC-V CPU in Bluespec
+      - Advanced Bluespec coding techniques
+
+** Suggested Code Examples
+  *** Bluespec Code
+      #+BEGIN_SRC bluespec
+      module SimpleAdder (
+          Clock clk,
+          Reset rst,
+          Bit#(32) a,
+          Bit#(32) b,
+          Bit#(32) sum
+      );
+          rule add;
+              sum <= a + b;
+          endrule
+      endmodule
+      #+END_SRC
+
+  *** RISC-V Assembly Code
+      #+BEGIN_SRC riscv
+      .text
+      .globl main
+      main:
+          addi a0, zero, 5
+          addi a1, zero, 3
+          jal ra, addition
+          j end
+      addition:
+          add a0, a0, a1
+          jr ra
+      end:
+          nop
+      #+END_SRC
