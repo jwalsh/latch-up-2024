@@ -49,7 +49,6 @@ Create and name a two week course (lc + dashes) for a session summary I'll provi
 
 Ensure the directory name is on a single line, in a code block, and the end of the chat without prefix to simplify cut and paste.
 
-Rename the title of the chat once I've given the session. 
 #+end_quote
 
 ** Tutorials 
@@ -81,8 +80,8 @@ Rename the title of the chat once I've given the session.
 
 - https://github.com/tactcomplabs
 
-** Artifact Evaluation for the Field Programmable Gate Array Community
-** Chisel 6 and beyond
+** DONE Artifact Evaluation for the Field Programmable Gate Array Community
+** DONE Chisel 6 and beyond
 ** MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
 ** Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
 ** [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
