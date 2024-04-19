@@ -41,4 +41,44 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
    - Chat room link: https://fossi-foundation.org/latch-up/2024#latchup2024:fossi-foundation.org
    - Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
 
-* Sessions 
+
+* Friday Sessions
+** Caster: An Open-source E-Ink Controller
+** Teaching Modern EDA using a Tapeout-Centric University Course
+** CedarEDA for open source silicon
+** Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
+** Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
+** Towards Cycle-accurate Simulation of xBGAS
+** Artifact Evaluation for the Field Programmable Gate Array Community
+** Chisel 6 and beyond
+** MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
+** Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
+** Riding The Wave: Building Wave Pipelines in FPGAs
+** Giving Students A Byte of Open-Source: Advancing Hardware Education
+** Open-source resources for learning the Bluespec HL-HDLs
+** PyHDL-IF: An Easy-to-Use Python/HDL Cross-Calling Interface
+** Talks at Draper
+** Lightning Talks at VenCaf
+
+* Saturday Sessions
+** Open source RTL verification with Verilator
+** Sonata: A development platform to enable exploring the use of CHERI for embedded applications
+** Transparent Checkpointing for Fault Tolerance in RISC-V
+** HDLAgent, Enhancing Hardware Language in the age of LLMs
+** Spade: An HDL Inspired By Modern Software Languages
+** Switchboard: Calling All Hardware Models
+** From an Open-Source ISA to Open-Source HW to Open-Source Silicon
+** Open Source Hardware: Hacking Silicon for Fun (instead of profit)
+** A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
+** UMI: Universal Memory Interface
+** ABC: The Way It Should Have Been Designed
+** BYOL (Build Your Own Linter) – UVMLint for IEEE-UVM core code development
+** Beyond EDA lies Edalize
+** RF Front-end receiver design for 2.4GH/5GHz WiFi application
+** CACE Study: Open source analog and mixed-signal design flow
+** IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
+** Tiny Tapeout: custom silicon open to all
+
+* Sunday Sessions
+** A Taste of TL-Verilog in the Context of Tiny Tapeout (Steve Hoover)
+** TBD (Michel Kinsy)
