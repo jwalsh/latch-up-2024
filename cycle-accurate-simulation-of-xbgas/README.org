@@ -1,0 +1,37 @@
+* Course: Cycle-accurate Simulation of xBGAS
+
+** Week 1: Introduction to xBGAS and SST
+   - Overview of xBGAS: Addressing data-intensive workloads in HPC
+   - Introduction to the Structural Simulation Toolkit (SST)
+   - Setting up the development environment
+   - Suggested code: ~setup.sh~ (environment setup script)
+
+** Week 1: Configuring REV-xBGAS
+   - Understanding the REV-xBGAS simulator architecture
+   - Configuring network latencies, bandwidths, and topologies
+   - Modeling xBGAS-enabled processors
+   - Suggested code: ~config.yaml~ (REV-xBGAS configuration file)
+
+** Week 2: Simulating and Evaluating xBGAS Performance
+   - Running simulations with REV-xBGAS
+   - Analyzing simulation results and performance metrics
+   - Comparing xBGAS performance under different conditions
+   - Suggested code: ~run_simulation.py~ (simulation script)
+
+** Week 2: Advanced Topics and Optimization
+   - Exploring advanced features of xBGAS and SST
+   - Optimizing xBGAS performance through simulation-driven insights
+   - Case studies and real-world applications
+   - Suggested code: ~optimize.py~ (optimization script)
+
+** Final Project
+   - Develop a custom xBGAS-enabled processor model
+   - Evaluate its performance under various network conditions
+   - Present findings and insights gained from the simulations
+
+** Questions for Students
+   1. How does xBGAS address the challenges of data-intensive workloads in HPC?
+   2. What are the key features and benefits of the Structural Simulation Toolkit (SST)?
+   3. How can REV-xBGAS be configured to model different network conditions?
+   4. What performance metrics can be analyzed using the REV-xBGAS simulator?
+   5. How can simulation-driven insights be used to optimize xBGAS performance?
