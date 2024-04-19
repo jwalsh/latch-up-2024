@@ -1,0 +1,44 @@
+* latch-up-2024
+
+The Latch-Up conference is a weekend of presentations and networking dedicated to free and open source silicon.
+
+** Address
+   - Street address: 51 Vassar Street, Cambridge, MA 02139-4307
+   - Google Maps link: https://maps.app.goo.gl/sysnMzoV7tPuoUAr9
+   - Also known as:
+     - MIT building 45
+     - MIT Schwarzman College of Computing
+
+** Room
+   - Room 230: 250-seater lecture theatre on the second level
+   - Location:
+     - To the right as you walk in
+     - No signs on walls due to building restrictions
+   - Directions:
+     - Take the stairs (center of the building) to the second floor, turn right past the elevators
+     - Or take the elevator to the second floor, turn right as you exit
+     - Pass the railing overlooking the entry atrium, around to the left
+     - Room 230 doors are on your left (unlocked during the day)
+
+** Times
+   - Coffee available from 8am
+   - Presentations start at 9am
+   - Friday:
+     - Lunch just before midday (after group photo)
+     - After talks, go to Draper Labs for pizza
+     - Then to Venture Cafe for lightning talks, beer, and possibly more pizza
+     - Directions to Draper and Venture Cafe on the schedule page: https://fossi-foundation.org/latch-up/2024#schedule
+   - Saturday:
+     - Similar schedule during the day
+     - Head to Flat Top Johnny's after talks, around 5pm
+   - Sunday:
+     - Longer form workshops/tutorials in the morning
+     - Details to be provided on Friday
+
+** Conference Matrix Chat
+   - Matrix chat server set up for questions during talks
+   - Presenters or other knowledgeable individuals will answer questions afterwards
+   - Chat room link: https://fossi-foundation.org/latch-up/2024#latchup2024:fossi-foundation.org
+   - Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
+
+* Sessions 
