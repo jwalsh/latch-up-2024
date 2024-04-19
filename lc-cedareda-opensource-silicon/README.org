@@ -1,0 +1,48 @@
+* lc-cedareda-opensource-silicon
+
+** Week 1
+*** Introduction to CedarEDA
+    - Overview of the CedarEDA suite
+    - Benefits of using CedarEDA for open source silicon design
+    - Comparison with other EDA tools
+
+*** Getting Started with CedarEDA
+    - Installation and setup
+    - Exploring the user interface
+    - Basic workflow and design flow
+
+*** Library-Based Design in CedarEDA
+    - Understanding the library-based approach
+    - Customizing and extending tool functionality
+    - Sharing improvements and collaborating with the community
+
+*** Integrating Best Practices from Software Development
+    - Continuous integration and verification
+    - Modern package management
+    - Version control and collaboration
+
+** Week 2
+*** Working with Open Source PDKs
+    - Introduction to Sky130 and GF180 PDKs
+    - Setting up and using open source PDKs with CedarEDA
+    - Design considerations and best practices
+
+*** Custom Workflow Development
+    - Creating fully custom workflows in CedarEDA
+    - Integrating third-party tools and scripts
+    - Automating repetitive tasks and optimizing productivity
+
+*** Advanced Topics and Case Studies
+    - Performance optimization techniques
+    - Handling complex designs and constraints
+    - Real-world examples and case studies
+
+*** Open Source Community and Resources
+    - Engaging with the open hardware community
+    - Contributing to CedarEDA and related projects
+    - Accessing additional resources and support
+
+*** Course Project and Wrap-up
+    - Applying CedarEDA to a practical open source silicon design project
+    - Presenting results and sharing experiences
+    - Course summary and next steps

@@ -1,4 +1,4 @@
-* latch-up-2024
+* Latch-Up-2024
 
 The Latch-Up conference is a weekend of presentations and networking dedicated to free and open source silicon.
 
@@ -47,6 +47,7 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 ** Teaching Modern EDA using a Tapeout-Centric University Course
 
 - Open PDK + OpenLane RTL-to-GDS
+- Physics and Stats students interested 
 
 ** CedarEDA for open source silicon
 ** Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
