@@ -1,0 +1,63 @@
+* chisel6-and-beyond
+
+** Introduction
+   - Overview of Chisel and its role in hardware design
+   - Benefits of using Chisel for hardware generators
+   - Recap of the MLIR FIRRTL compiler discussed at Latch Up last year
+
+** New Features in Chisel 6
+   - Feature 1
+     - Explanation and benefits
+     - Code example
+       #+BEGIN_SRC scala
+       // chisel6_feature1.scala
+       // Code demonstrating Feature 1
+       #+END_SRC
+   - Feature 2
+     - Explanation and benefits
+     - Code example
+       #+BEGIN_SRC scala
+       // chisel6_feature2.scala
+       // Code demonstrating Feature 2
+       #+END_SRC
+   - Feature 3
+     - Explanation and benefits
+     - Code example
+       #+BEGIN_SRC scala
+       // chisel6_feature3.scala
+       // Code demonstrating Feature 3
+       #+END_SRC
+
+** Upcoming Features in Chisel 7
+   - Feature 1
+     - Explanation and potential benefits
+   - Feature 2
+     - Explanation and potential benefits
+   - Feature 3
+     - Explanation and potential benefits
+
+** Improved Verification with Chisel 6 and 7
+   - Explanation of how the new features enhance verification
+   - Code example
+     #+BEGIN_SRC scala
+     // chisel6_verification.scala
+     // Code demonstrating improved verification techniques
+     #+END_SRC
+
+** Other Non-Design Aspects of Chisel
+   - Aspect 1
+     - Explanation and benefits
+   - Aspect 2
+     - Explanation and benefits
+
+** Conclusion
+   - Recap of the key points
+   - Importance of staying up-to-date with Chisel's development
+   - Encouragement to explore and utilize the new features
+
+** Questions for Students
+   1. How do the new features in Chisel 6 improve hardware design productivity?
+   2. What are the main benefits of the upcoming features in Chisel 7?
+   3. How do the new features in Chisel 6 and 7 enhance verification?
+   4. Explain the importance of the MLIR FIRRTL compiler in the context of Chisel's development.
+   5. What are some non-design aspects of Chisel that have been improved in recent versions?
