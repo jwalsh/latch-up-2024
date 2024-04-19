@@ -54,18 +54,19 @@ Rename the title of the chat once I've given the session.
 
 ** Tutorials 
 
+** Takeaways and Tasks
 * Friday Sessions
-** DONE Caster: An Open-source E-Ink Controller
+** DONE [#A] Caster: An Open-source E-Ink Controller
 
 - https://gitlab.com/zephray/glider
 - https://gitlab.com/zephray/caster
 
-** DONE Teaching Modern EDA using a Tapeout-Centric University Course
+** DONE [#A] Teaching Modern EDA using a Tapeout-Centric University Course
 
 - Open PDK + OpenLane RTL-to-GDS
 - Physics and Stats students interested 
 
-** DONE CedarEDA for open source silicon
+** DONE [#C] CedarEDA for open source silicon
 
 - https://cedar-eda.com/
 - https://github.com/CedarEDA/CMC.jl
@@ -73,9 +74,10 @@ Rename the title of the chat once I've given the session.
 - https://github.com/Keno
 
 
-** DONE Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
+** DONE [#C] Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
 
 ** TODO Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
+** TODO [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
 ** Towards Cycle-accurate Simulation of xBGAS
 ** Artifact Evaluation for the Field Programmable Gate Array Community
 ** Chisel 6 and beyond
@@ -93,9 +95,8 @@ Rename the title of the chat once I've given the session.
 
 * Saturday Sessions
 ** Open source RTL verification with Verilator
-** Sonata: A development platform to enable exploring the use of CHERI for embedded applications
 ** Transparent Checkpointing for Fault Tolerance in RISC-V
-** HDLAgent, Enhancing Hardware Language in the age of LLMs
+** [#A] HDLAgent, Enhancing Hardware Language in the age of LLMs
 ** Spade: An HDL Inspired By Modern Software Languages
 ** Switchboard: Calling All Hardware Models
 ** From an Open-Source ISA to Open-Source HW to Open-Source Silicon
