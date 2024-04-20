@@ -52,7 +52,8 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 #+begin_quote
 Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. Suggest questions the student should be able to answer at the end of the course. All code examples should induced a suggested filename to save to the directory.
 
-Ensure the directory name is on a single line, in a code block, and the end of the chat without prefix to simplify cut and paste.
+The final output should be a code block containing a shell archive called ~setup.shar~ that creates the directory structure and files for the course. Made on for the shell archive should be for j@wal.sh. There is no source directory. 
+
 
 #+end_quote
 
