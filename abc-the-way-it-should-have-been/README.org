@@ -1,0 +1,54 @@
+* abc-the-way-it-should-have-been
+** Week 1: Introduction to ABC and its core features
+*** Lecture 1: Overview of ABC and its history
+**** Questions:
+     - What is ABC, and when was it first released?
+     - What are the main features of ABC?
+     - What is the significance of the And-Inverter Graphs (AIG) data-structure in ABC?
+*** Lecture 2: Technology-independent synthesis using DAG-aware rewriting
+**** Code example:
+     - Filename: dag_rewriting.c
+     #+BEGIN_SRC c
+     // Example code for DAG-aware rewriting in ABC
+     // ...
+     #+END_SRC
+**** Questions:
+     - What is DAG-aware rewriting, and how does it work in ABC?
+     - What are the advantages of technology-independent synthesis?
+*** Lecture 3: Technology mapping for standard cells and lookup tables
+**** Code example:
+     - Filename: tech_mapping.c
+     #+BEGIN_SRC c
+     // Example code for technology mapping in ABC
+     // ...
+     #+END_SRC
+**** Questions:
+     - What is technology mapping, and how is it implemented in ABC?
+     - What are standard cells and lookup tables, and how are they used in technology mapping?
+*** Lecture 4: Combinational equivalence checking using AIGs
+**** Code example:
+     - Filename: equivalence_checking.c
+     #+BEGIN_SRC c
+     // Example code for combinational equivalence checking in ABC
+     // ...
+     #+END_SRC
+**** Questions:
+     - What is combinational equivalence checking, and how is it performed in ABC?
+     - How do AIGs facilitate combinational equivalence checking?
+** Week 2: Shortcomings and potential improvements in ABC
+*** Lecture 5: Identifying shortcomings in ABC's design
+**** Questions:
+     - What are some of the main shortcomings in ABC's original design?
+     - How have these shortcomings affected the usability and versatility of ABC?
+*** Lecture 6: Improving ABC's user-friendliness
+**** Questions:
+     - What changes can be made to ABC's user interface to make it more user-friendly?
+     - How can documentation and tutorials be improved to help users learn and use ABC more effectively?
+*** Lecture 7: Enhancing ABC's versatility and extensibility
+**** Questions:
+     - What additional features or modules can be added to ABC to enhance its versatility?
+     - How can ABC's architecture be modified to make it more extensible and adaptable to future needs?
+*** Lecture 8: Setting a new standard for future versions of ABC
+**** Questions:
+     - What lessons can be learned from ABC's development history to guide future versions?
+     - How can academic researchers maximize the usefulness of their tools based on the experience with ABC?
