@@ -1,0 +1,33 @@
+* risc-v-fault-tolerance-with-dmtcp
+** Week 1: Introduction to RISC-V and DMTCP
+*** Lecture 1: RISC-V Architecture Fundamentals
+    - Introduction to RISC-V ISA
+    - RISC-V instruction formats and extensions
+    - Suggested code: ~risc-v-intro.s~
+*** Lecture 2: DMTCP Overview and Concepts
+    - Understanding checkpointing and restart
+    - DMTCP architecture and components
+    - Suggested code: ~dmtcp-basics.c~
+*** Lecture 3: Integrating DMTCP with RISC-V
+    - Compiling DMTCP for RISC-V
+    - Configuring DMTCP for RISC-V applications
+    - Suggested code: ~dmtcp-risc-v-setup.sh~
+** Week 2: Fault Tolerance Techniques and Applications
+*** Lecture 4: Transparent Checkpointing with DMTCP
+    - Enabling transparent checkpointing in RISC-V programs
+    - Checkpoint and restart strategies
+    - Suggested code: ~transparent-checkpoint.c~
+*** Lecture 5: Fault Tolerance in Parallel RISC-V Applications
+    - Checkpointing parallel RISC-V programs with DMTCP
+    - Recovering from failures in parallel applications
+    - Suggested code: ~parallel-fault-tolerance.c~
+*** Lecture 6: Real-world Applications and Case Studies
+    - Exploring fault tolerance in HPC and distributed computing
+    - Analyzing performance and overhead of DMTCP on RISC-V
+    - Suggested code: ~risc-v-dmtcp-benchmark.c~
+** Questions for Students
+   1. How does DMTCP enable fault tolerance in RISC-V applications?
+   2. What are the benefits of transparent checkpointing in parallel computing scenarios?
+   3. How can DMTCP be integrated into the RISC-V software stack?
+   4. What are the key considerations when checkpointing and restarting parallel RISC-V programs?
+   5. How can fault tolerance techniques like DMTCP enhance t
