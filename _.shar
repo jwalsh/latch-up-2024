@@ -1,0 +1,180 @@
+#!/bin/sh
+# This is a shell archive (produced by GNU sharutils 4.15.2).
+# To extract the files from this archive, save it to some FILE, remove
+# everything before the '#!/bin/sh' line above, then type 'sh FILE'.
+#
+lock_dir=_sh00046
+# Made on 2023-04-20 17:00 UTC by <user@example.com>.
+# Source directory was '/path/to/source'.
+#
+# Existing files will *not* be overwritten unless '-c' is specified.
+#
+# This shar contains:
+# length mode       name
+# ------ ---------- ------------------------------------------
+#   1092 -rw-rw-r-- edalize-fundamentals/README.org
+#    113 -rw-rw-r-- edalize-fundamentals/week1/eda_tool_config.py
+#    131 -rw-rw-r-- edalize-fundamentals/week1/integrate_edalize.py
+#    128 -rw-rw-r-- edalize-fundamentals/week1/run_simulation.py
+#    124 -rw-rw-r-- edalize-fundamentals/week1/run_synthesis.py
+#    118 -rw-rw-r-- edalize-fundamentals/week1/setup_edalize.py
+#    139 -rw-rw-r-- edalize-fundamentals/week2/complex_workflow.py
+#    136 -rw-rw-r-- edalize-fundamentals/week2/custom_edalize_plugin.py
+#    129 -rw-rw-r-- edalize-fundamentals/week2/edalize_ci_setup.py
+#    113 -rw-rw-r-- edalize-fundamentals/week2/final_project.py
+#    140 -rw-rw-r-- edalize-fundamentals/week2/optimize_edalize.py
+#
+save_IFS="${IFS}"
+IFS="${IFS}:"
+getdir=`pwd`
+D=`dirname $0`
+test ! -d "${D}" && D="${getdir}"
+cd "${D}"
+D=`pwd`
+IFS="${save_IFS}"
+if test ! -d ${lock_dir} ; then
+  mkdir ${lock_dir}
+fi
+cd ${lock_dir}
+if test -f ${lock_dir}/failure ; then
+  echo "Extraction failed, deleting lock directory..."
+  cd ..
+  rm -rf ${lock_dir}
+  exit 0
+fi
+>>${lock_dir}/failure
+echo "Extracting from `pwd` ..."
+chmod 700 .
+sed 's/^X//' << 'SHAR_EOF' | uncompress -c | tar xvf - && \
+  chmod 600 ${lock_dir}/failure && rm ${lock_dir}/failure
+X5d8006d0100000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X312079f1800000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X0000000000000000000000000000000000000000000000000000000000000000
+X00000000000000000000000000000000000000000000000000000000000000ed
+X0004402a000023656461 6c697a652d66756e6461 
+X6d656e74616c732f5245 41444d452e6f7267005f 
+X8006d2300000f00000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 00* Edalize Fundamentals
+** Week 1: Introduction to Edalize
+*** Day 1: What is Edalize?
+**** Overview of Edalize and its purpose
+**** Comparison with traditional EDA workflows
+**** Setting up the Edalize environment
+**** Suggested code: [[file:week1/setup_edalize.py][Python script to set up Edalize environment]]
+*** Day 2: Interfacing with EDA tools using Edalize
+**** Common interface for different EDA tools
+**** Supported EDA tools (Verilator, Icarus Verilog, Yosys, etc.)
+**** Constructing EDA tool configurations programmatically
+**** Suggested code: [[file:week1/eda_tool_config.py][Python script to configure EDA tools]]
+*** Day 3: Running simulations with Edalize
+**** Programmatically constructing simulation workflows
+**** Managing simulation dependencies and files
+**** Analyzing simulation results
+**** Suggested code: [[file:week1/run_simulation.py][Python script to run a simulation using Edalize]]
+*** Day 4: Synthesis workflows with Edalize
+**** Constructing synthesis workflows programmatically
+**** Managing synthesis dependencies and constraints
+**** Analyzing synthesis reports
+**** Suggested code: [[file:week1/run_synthesis.py][Python script to run synthesis using Edalize]]
+*** Day 5: Integrating Edalize into existing build systems
+**** Overview of common build systems (Make, CMake, etc.)
+**** Strategies for integrating Edalize into build systems
+**** Handling dependencies and file management
+**** Suggested code: [[file:week1/integrate_edalize.py][Python script to integrate Edalize into a build system]]
+** Week 2: Advanced Edalize Concepts and Workflows
+*** Day 6: Complex workflows with Edalize
+**** Handling multi-stage workflows (e.g., simulation + synthesis)
+**** Managing tool-specific options and configurations
+**** Debugging and troubleshooting complex workflows
+**** Suggested code: [[file:week2/complex_workflow.py][Python script demonstrating a complex Edalize workflow]]
+*** Day 7: Continuous Integration with Edalize
+**** Overview of Continuous Integration (CI) principles
+**** Setting up Edalize in a CI environment
+**** Automating EDA tool runs using Edalize and CI
+**** Suggested code: [[file:week2/edalize_ci_setup.py][Python script to set up Edalize in a CI environment]]
+*** Day 8: Extending Edalize for custom tools and workflows
+**** Overview of the Edalize plugin system
+**** Implementing custom EDA tool support
+**** Extending Edalize for project-specific workflows
+**** Suggested code: [[file:week2/custom_edalize_plugin.py][Python script demonstrating a custom Edalize plugin]]
+*** Day 9: Best practices and optimization techniques
+**** Organizing Edalize-based projects for maintainability
+**** Optimizing Edalize workflows for performance
+**** Debugging and profiling Edalize scripts
+**** Suggested code: [[file:week2/optimize_edalize.py][Python script demonstrating optimization techniques for Edalize]]
+*** Day 10: Course review and final project
+**** Review of key concepts and techniques
+**** Introduction to the final project
+**** Final project work session
+**** Suggested code: [[file:week2/final_project.py][Python script for the final project]]
+
+0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X00000000000000000000q1 0000400100000236564146
+Xc 697a652d66 756e64616d656e74 
+X616c732f7765656b312f 6564615f746f6f6c5f63 
+X6f6e6669672e707900cf80 06d330000080000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 0000000000000000000 
+X0000000000000000000000 000000000000000000
