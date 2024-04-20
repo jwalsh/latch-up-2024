@@ -139,6 +139,8 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 
 - https://github.com/zeroasiccorp/umi
 - http://cva.stanford.edu/publications/2001/onchip_dac01.pdf
+- https://sld.cs.columbia.edu/pubs/carloni_tcad01_lip.pdf
+- https://github.com/zeroasiccorp/ebrick-demo
 
 ** TODO ABC: The Way It Should Have Been Designed
 ** TODO BYOL (Build Your Own Linter) – UVMLint for IEEE-UVM core code development
