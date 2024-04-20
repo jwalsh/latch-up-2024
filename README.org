@@ -113,6 +113,22 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 ** TODO Spade: An HDL Inspired By Modern Software Languages
 ** TODO Switchboard: Calling All Hardware Models
 ** DONE From an Open-Source ISA to Open-Source HW to Open-Source Silicon
+
+- https://pulp-platform.org/
+
+
+#+begin_src bibtex
+@ARTICLE{8715500,
+  author={Pullini, Antonio and Rossi, Davide and Loi, Igor and Tagliavini, Giuseppe and Benini, Luca},
+  journal={IEEE Journal of Solid-State Circuits}, 
+  title={Mr.Wolf: An Energy-Precision Scalable Parallel Ultra Low Power SoC for IoT Edge Processing}, 
+  year={2019},
+  volume={54},
+  number={7},
+  pages={1970-1981},
+  doi={10.1109/JSSC.2019.2912307}}
+#+end_src
+
 ** Open Source Hardware: Hacking Silicon for Fun (instead of profit)
 ** A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
 ** UMI: Universal Memory Interface
