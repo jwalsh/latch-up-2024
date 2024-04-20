@@ -1,0 +1,29 @@
+#+TITLE: Tiny Tapeout: Custom Silicon Open to All
+
+* Introduction
+Tiny Tapeout is an educational project that makes it easier and cheaper than ever to get your digital designs manufactured on a real chip. In this course, we will explore the capabilities and possibilities of Tiny Tapeout.
+
+* Course Outline
+** Week 1: Introduction to Tiny Tapeout
+  - Overview of the Tiny Tapeout project
+  - Benefits and advantages of custom silicon
+  - Introduction to the design process
+  - Example code: ~tiny_tapeout_intro.v~
+
+** Week 2: Advanced Features and Possibilities
+  - Analog support in Tiny Tapeout
+  - Speed improvements and optimizations
+  - Exploring additional features and goodies
+  - Example code: ~tiny_tapeout_analog.v~, ~tiny_tapeout_goodies.v~
+
+* Learning Objectives
+By the end of this course, students should be able to:
+1. Understand the benefits and possibilities of custom silicon through Tiny Tapeout
+2. Describe the design process for creating a digital design for manufacturing
+3. Identify the advanced features and capabilities of Tiny Tapeout, including analog support and speed optimizations
+4. Analyze and modify example code to create custom designs for Tiny Tapeout
+
+* Resources
+- Tiny Tapeout project website: https://tinytapeout.com/
+- Verilog HDL reference: https://www.chipverify.com/verilog/verilog-tutorial
+- Open-source silicon design tools: https://www.zerotoasiccourse.com/terminology/open-source-silicon-design/

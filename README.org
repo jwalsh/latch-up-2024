@@ -157,7 +157,45 @@ Let me know when you're ready...
 ** TODO RF Front-end receiver design for 2.4GH/5GHz WiFi application
 ** TODO CACE Study: Open source analog and mixed-signal design flow
 ** TODO IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
+
+- https://github.com/StefanSchippers/xschem
+- https://efabless.com/
+
 ** TODO Tiny Tapeout: custom silicon open to all
 * Sunday Sessions
 ** TODO A Taste of TL-Verilog in the Context of Tiny Tapeout (Steve Hoover)
 ** TODO TBD (Michel Kinsy)
+* Music
+
+** Heliotropic - Failure
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CREATED:  [2024-04-19 Fri 07:02]
+:END:
+
+Heliotropic by Failure https://www.shazam.com/track/66320532/heliotropic?referrer=share
+
+** Heard It in a Love Song - The Marshall Tucker Band
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CREATED:  [2024-04-19 Fri 07:02]
+:END:
+
+Heard It in a Love Song by The Marshall Tucker Band https://www.shazam.com/track/40708901/heard-it-in-a-love-song?referrer=share
+
+** Hannah Hunt - Vampire Weekend
+SCHEDULED: <2024-04-19 Fri>
+:PROPERTIES:
+:CREATED:  [2024-04-19 Fri 07:02]
+:END:
+
+Hannah Hunt by Vampire Weekend https://www.shazam.com/track/86963034/hannah-hunt?referrer=share
+
+** Blush - Velvet Moon
+SCHEDULED: <2024-04-20 Sat>
+:PROPERTIES:
+:CREATED:  [2024-04-20 Sat 05:05]
+:END:
+
+Blush by Velvet Moon https://www.shazam.com/track/429547080/blush?referrer=share
+
