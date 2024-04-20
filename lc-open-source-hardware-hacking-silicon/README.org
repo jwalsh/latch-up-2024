@@ -1,0 +1,53 @@
+* lc-open-source-hardware-hacking-silicon
+
+** Introduction
+   - Overview of open source hardware and its significance
+   - The concept of hacking silicon for fun and learning
+   - Brief history of open source hardware projects
+
+** Day 1: Fundamentals of Hardware Design
+   - Introduction to digital logic and circuits
+   - Overview of hardware description languages (HDLs)
+   - Hands-on exercise: Designing a simple logic gate using an HDL
+   - Suggested code: [[file:simple-logic-gate.v][Simple Logic Gate in Verilog]]
+
+** Day 2: FPGA Basics
+   - What are FPGAs and how do they work?
+   - Advantages and limitations of FPGAs
+   - Hands-on exercise: Implementing a basic design on an FPGA
+   - Suggested code: [[file:fpga-blinky.v][FPGA Blinky Example]]
+
+** Day 3: Open Source Toolchains
+   - Introduction to open source toolchains for hardware design
+   - Overview of popular tools (Icarus Verilog, Yosys, NextPNR)
+   - Setting up the development environment
+   - Hands-on exercise: Simulating and synthesizing a design using open source tools
+   - Suggested code: [[file:open-source-toolchain-example.v][Open Source Toolchain Example]]
+
+** Day 4: Case Studies and Recent Developments
+   - Discussion of notable open source hardware projects
+   - Advancements in open source silicon design since 2017
+   - Challenges and opportunities in the field
+
+** Day 5: Hacking Silicon for Space Applications
+   - Considerations for designing hardware for space environments
+   - Potential use cases for open source silicon in space
+   - Hands-on exercise: Designing a simple space-rated component
+   - Suggested code: [[file:space-rated-component.v][Space-Rated Component Example]]
+
+** Day 6-9: Project Work
+   - Students work on individual or group projects applying the concepts learned
+   - Regular check-ins and guidance from the instructor
+   - Preparation for project presentations
+
+** Day 10: Project Presentations and Wrap-up
+   - Students present their projects to the class
+   - Discussion of key takeaways and future directions
+   - Course evaluation and feedback
+
+** Questions for Students
+   1. What are the benefits and challenges of open source hardware design compared to proprietary approaches?
+   2. How do FPGAs differ from traditional integrated circuits, and what are their primary use cases?
+   3. Describe the role of hardware description languages (HDLs) in the hardware design process.
+   4. What are some notable open source hardware projects, and how have they contributed to the field?
+   5. How can open source silicon design potentially impact the development of space-rated hardware?
