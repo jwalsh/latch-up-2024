@@ -50,10 +50,18 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 ** Prompts 
 
 #+begin_quote
-Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. Suggest questions the student should be able to answer at the end of the course. All code examples should induced a suggested filename to save to the directory.
+We're going to working in a couple of steps...
 
 The final output should be a code block containing a shell archive called ~setup.shar~ that creates the directory structure and files for the course. Made on for the shell archive should be for j@wal.sh. There is no source directory. 
 
+- You should provide the name for the child directory 
+- Do not show any commentary
+- Only show the code block with the shell archive
+- Double check for any child directories that might cause the script to error out
+
+Create and name a two week course (lc + dashes) for a session summary I'll provide after you confirm we're ready to proceed. Assume we're going to populate {dir name}/README.org so show the course in a code block for org-mode. Suggest any code that would be relevant. Suggest questions the student should be able to answer at the end of the course. All code examples should induced a suggested filename to save to the directory.
+
+Let me know when you're ready...
 
 #+end_quote
 

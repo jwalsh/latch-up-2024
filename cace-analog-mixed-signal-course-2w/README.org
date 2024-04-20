@@ -1,0 +1,27 @@
+* CACE Analog/Mixed-Signal Design Flow
+
+This two-week course covers the open source analog and mixed-signal design flow using the CACE system.
+
+** Topics
+- Introduction to open source PDKs and tools 
+- Overview of the CACE design flow
+- Specifying circuit performance requirements
+- Simulating over PVT corners with ngspice
+- Generating datasheets with performance metrics
+- Laying out analog circuits with magic
+- Integrating analog blocks into larger mixed-signal designs
+- Case studies and examples
+
+** Suggested Exercises
+- Specify and simulate a basic opamp design
+- Generate a performance report for the opamp
+- Create a layout for the opamp 
+- Integrate the opamp into a mixed-signal design
+- Analyze the impact of PVT variations
+
+** Questions
+- What are the key components of the CACE design flow?
+- How does CACE help with specifying analog performance?  
+- What tools are used for simulation and layout in this flow?
+- How can you verify an analog design across PVT corners?
+- What are best practices for analog circuit layout?
