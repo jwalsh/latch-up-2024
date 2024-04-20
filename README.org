@@ -129,17 +129,16 @@ Ensure the directory name is on a single line, in a code block, and the end of t
   doi={10.1109/JSSC.2019.2912307}}
 #+end_src
 
-** Open Source Hardware: Hacking Silicon for Fun (instead of profit)
-** A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
-** UMI: Universal Memory Interface
-** ABC: The Way It Should Have Been Designed
-** BYOL (Build Your Own Linter) – UVMLint for IEEE-UVM core code development
-** Beyond EDA lies Edalize
-** RF Front-end receiver design for 2.4GH/5GHz WiFi application
-** CACE Study: Open source analog and mixed-signal design flow
-** IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
-** Tiny Tapeout: custom silicon open to all
-
+** TODO Open Source Hardware: Hacking Silicon for Fun (instead of profit)
+** TODO A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
+** TODO UMI: Universal Memory Interface
+** TODO ABC: The Way It Should Have Been Designed
+** TODO BYOL (Build Your Own Linter) – UVMLint for IEEE-UVM core code development
+** TODO Beyond EDA lies Edalize
+** TODO RF Front-end receiver design for 2.4GH/5GHz WiFi application
+** TODO CACE Study: Open source analog and mixed-signal design flow
+** TODO IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
+** TODO Tiny Tapeout: custom silicon open to all
 * Sunday Sessions
-** A Taste of TL-Verilog in the Context of Tiny Tapeout (Steve Hoover)
-** TBD (Michel Kinsy)
+** TODO A Taste of TL-Verilog in the Context of Tiny Tapeout (Steve Hoover)
+** TODO TBD (Michel Kinsy)
