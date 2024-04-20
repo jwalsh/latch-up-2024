@@ -1,0 +1,41 @@
+* Course: open-source-rtl-verification-with-verilator
+
+** Introduction
+   - Importance of open source RTL verification
+   - Overview of Verilator and its role in verification
+   - Antmicro's work on enabling constrained randomization in Verilator
+
+** Constrained Randomization in Verilator
+   - What is constrained randomization?
+   - Benefits of constrained randomization in verification
+   - Challenges in implementing constrained randomization in Verilator
+
+** Verilator's Constrained Randomization Implementation
+   - Generating expressions in smtlib2 language
+   - Solver independence and avoiding build time dependencies
+   - Code example: [[file:constrained_randomization.sv][Constrained randomization in SystemVerilog]]
+
+** Open Source Samples and Demos
+   - Setting up a Verilator-based verification environment
+   - Code example: [[file:verilator_testbench.cpp][Verilator testbench]]
+   - Running constrained randomization tests
+   - Code example: [[file:randomized_test.sv][Randomized test case]]
+
+** Scaling Verification Workloads
+   - Importance of cloud scaling for production-grade ASIC verification
+   - Leveraging Verilator's constrained randomization for scalability
+   - Code example: [[file:cloud_verification_script.sh][Cloud verification script]]
+
+** Future Considerations and Roadmap
+   - Full UVM support in Verilator
+   - Integration with other open source verification tools
+   - Community involvement and contributions
+
+** Course Summary and Q&A
+   - Recap of key points
+   - Questions the student should be able to answer:
+     1. What is the significance of constrained randomization in RTL verification?
+     2. How does Verilator's implementation of constrained randomization differ from other approaches?
+     3. What are the benefits of using Verilator for open source RTL verification?
+     4. How can Verilator's constrained randomization be leveraged for scaling verification workloads?
+   - Further resources and references
