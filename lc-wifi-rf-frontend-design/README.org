@@ -1,0 +1,15 @@
+# RF Front-end Receiver Design for 2.4GHz/5GHz WiFi Application
+
+This course covers the design of an RF front-end receiver for 2.4GHz and 5GHz WiFi applications using open-source tools and the Skywater PDK.
+
+## Week 1: RF Front-end Receiver Design
+
+- Understand the components of an RF front-end receiver (LNA, Mixer, VCO)
+- Design and simulate an RF front-end receiver for 2.4GHz and 5GHz WiFi applications
+- Achieve dual gain mode (5dB/30dB) and optimize noise figure and IIP3 performance
+
+## Week 2: Tape-out and Testing
+
+- Prepare the RF front-end receiver design for tape-out using efabless open-source tools and Skywater PDK
+- Understand the tape-out process and requirements
+- Plan for testing and characterization of the fabricated chip

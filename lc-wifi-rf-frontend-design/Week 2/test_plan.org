@@ -1,0 +1,2 @@
+* Test plan for the fabricated RF front-end receiver chip
+* Characterization of key performance metrics

@@ -3,7 +3,7 @@
 # To extract the files from this archive, save it to some FILE, remove
 # everything before the '#!/bin/sh' line above, then type 'sh FILE'.
 #
-# Made on 2023-04-20 19:21:17 UTC by j@wal.sh
+# Made on 2023-04-20 19:30:00 UTC by j@wal.sh
 # Source directory was '/home/j/lc-wifi-rf-frontend-design'
 #
 # Existing files will *not* be overwritten unless '-c' is specified.
@@ -21,6 +21,10 @@
 #
 saveFiles()
 {
+  mkdir -p "lc-wifi-rf-frontend-design"
+  mkdir -p "lc-wifi-rf-frontend-design/Week 1"
+  mkdir -p "lc-wifi-rf-frontend-design/Week 2"
+  
   cat <<SHAR_EOF > "lc-wifi-rf-frontend-design/README.org"
 # RF Front-end Receiver Design for 2.4GHz/5GHz WiFi Application
 
@@ -70,9 +74,4 @@ SHAR_EOF
 SHAR_EOF
 }
 
-OLDDIR=$(pwd)
-mkdir -p "lc-wifi-rf-frontend-design/Week 1"
-mkdir -p "lc-wifi-rf-frontend-design/Week 2"
-cd "lc-wifi-rf-frontend-design" || exit 1
 saveFiles
-cd "$OLDDIR"
