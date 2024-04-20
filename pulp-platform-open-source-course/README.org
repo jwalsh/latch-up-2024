@@ -1,0 +1,31 @@
+* PULP Platform: From Open-Source ISA to Silicon
+** Week 1: Introduction to Open-Source Hardware
+*** Lecture 1: Overview of Open-Source Hardware
+**** What is open-source hardware?
+**** Benefits and challenges of open-source hardware
+**** Real-world examples and applications
+*** Lecture 2: Open-Source Instruction Set Architectures (ISAs)
+**** Introduction to ISAs
+**** Popular open-source ISAs (e.g., RISC-V)
+**** Advantages of using open-source ISAs
+*** Lecture 3: Open-Source Hardware IPs
+**** What are hardware IPs?
+**** Types of open-source hardware IPs
+**** Integration of open-source IPs in chip design
+*** Coding Exercise 1: Exploring RISC-V Assembly
+**** Filename: ~risc-v-intro.s~
+** Week 2: The PULP Platform and Open-Source EDA Tools
+*** Lecture 4: Introduction to the PULP Platform
+**** Overview of the PULP platform
+**** Key features and components
+**** PULP platform's open-source activities and roadmap
+*** Lecture 5: Open-Source EDA Tools
+**** What are EDA tools?
+**** Popular open-source EDA tools
+**** Integrating open-source EDA tools in the chip design flow
+*** Lecture 6: Benefits, Challenges, and Future of Open-Source Silicon
+**** Benefits experienced by the PULP platform
+**** Challenges overcome and current challenges
+**** Future prospects of open-source silicon
+*** Coding Exercise 2: Implementing a Simple RISC-V Program
+**** Filename: ~pulp-riscv-example.c~

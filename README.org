@@ -36,10 +36,15 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
      - Details to be provided on Friday
 
 ** Conference Matrix Chat
-   - Matrix chat server set up for questions during talks
-   - Presenters or other knowledgeable individuals will answer questions afterwards
-   - Chat room link: https://fossi-foundation.org/latch-up/2024#latchup2024:fossi-foundation.org
-   - Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
+- Matrix chat server set up for questions during talks
+- Presenters or other knowledgeable individuals will answer questions afterwards
+- Chat room link: https://fossi-foundation.org/latch-up/2024#latchup2024:fossi-foundation.org
+- Web chat: https://app.element.io/#/room/#latchup2024:fossi-foundation.org
+- Code of conduct applies: https://fossi-foundation.org/latch-up/2024#code-of-conduct
+     
+** Videos
+
+- https://www.youtube.com/fossifoundation
 
 * Meta
 ** Prompts 
@@ -72,7 +77,6 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 - https://github.com/JuliaComputing
 - https://github.com/Keno
 
-
 ** DONE [#C] Cohort: Software-Oriented Acceleration for You, Me, and Our Heterogeneous SoCs
 
 ** DONE Towards xBGAS on CHERI: Examining the Benefits of a Secure Distributed Architecture
@@ -85,31 +89,30 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 
 - https://www.chisel-lang.org/docs/cookbooks/cookbook
 
-
 ** DONE MRPHS: Enabling Transaction-level Deductive Formal Verification Through PDVL
-** TODO Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
+** DONE Architecture 2.0: Toward Open Source Foundation Models and Datasets for Hardware Design
 
 - https://harvard-edge.github.io/cs249r_book/contents/hw_acceleration/hw_acceleration.html
 - https://arxiv.org/abs/2306.08888
   
-** TODO [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
-** TODO Riding The Wave: Building Wave Pipelines in FPGAs
+** DONE [#B] Sonata: A development platform to enable exploring the use of CHERI for embedded applications
+** DONE Riding The Wave: Building Wave Pipelines in FPGAs
 ** TODO Giving Students A Byte of Open-Source: Advancing Hardware Education
 ** TODO Open-source resources for learning the Bluespec HL-HDLs
-** TODO PyHDL-IF: An Easy-to-Use Python/HDL Cross-Calling Interface
+** DONE PyHDL-IF: An Easy-to-Use Python/HDL Cross-Calling Interface
 
 - https://pyhdl.readthedocs.io/en/latest/
 
-** TODO Talks at Draper
+** DONE Talks at Draper
 ** TODO Lightning Talks at VenCaf
 
 * Saturday Sessions
-** Open source RTL verification with Verilator
-** Transparent Checkpointing for Fault Tolerance in RISC-V
-** [#A] HDLAgent, Enhancing Hardware Language in the age of LLMs
-** Spade: An HDL Inspired By Modern Software Languages
-** Switchboard: Calling All Hardware Models
-** From an Open-Source ISA to Open-Source HW to Open-Source Silicon
+** TODO Open source RTL verification with Verilator
+** TODO Transparent Checkpointing for Fault Tolerance in RISC-V
+** TODO [#A] HDLAgent, Enhancing Hardware Language in the age of LLMs
+** TODO Spade: An HDL Inspired By Modern Software Languages
+** TODO Switchboard: Calling All Hardware Models
+** DONE From an Open-Source ISA to Open-Source HW to Open-Source Silicon
 ** Open Source Hardware: Hacking Silicon for Fun (instead of profit)
 ** A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
 ** UMI: Universal Memory Interface

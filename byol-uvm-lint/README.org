@@ -1,0 +1,27 @@
+* byol-uvm-lint
+** Week 1: Introduction to Linting and UVM BCL
+*** Topics
+    - Importance of linting in projects with wide user base and distributed developers
+    - Overview of UVM Base Class Library (BCL)
+    - Introduction to PySlint, an open-source SystemVerilog testbench linter
+*** Code Examples
+    - example-uvm-bcl.sv: Sample UVM BCL code snippet
+    - example-pyslint-rules.py: Basic PySlint rule definition
+*** Questions
+    - What are the benefits of linting in large-scale projects?
+    - What is the purpose of the UVM Base Class Library?
+    - How can PySlint be used to lint SystemVerilog testbenches?
+
+** Week 2: Developing Custom UVMLint Rules
+*** Topics
+    - Identifying lint rules specific to UVM BCL codebase
+    - Implementing custom UVMLint rules using Python
+    - Integrating UVMLint with GitHub Actions for continuous code quality checks
+*** Code Examples
+    - uvmlint-rules.py: Custom UVMLint rule definitions
+    - uvmlint-tests.py: Test cases for UVMLint rules
+    - github-actions-config.yml: GitHub Actions configuration for UVMLint integration
+*** Questions
+    - What are some examples of lint rules tailored for the UVM BCL codebase?
+    - How can custom UVMLint rules be implemented using Python?
+    - How can UVMLint be integrated with GitHub Actions to ensure code quality?
