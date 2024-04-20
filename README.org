@@ -107,7 +107,7 @@ Ensure the directory name is on a single line, in a code block, and the end of t
 ** TODO Lightning Talks at VenCaf
 
 * Saturday Sessions
-** TODO Open source RTL verification with Verilator
+** DONE Open source RTL verification with Verilator
 ** TODO Transparent Checkpointing for Fault Tolerance in RISC-V
 ** TODO [#A] HDLAgent, Enhancing Hardware Language in the age of LLMs
 ** TODO Spade: An HDL Inspired By Modern Software Languages
@@ -129,9 +129,17 @@ Ensure the directory name is on a single line, in a code block, and the end of t
   doi={10.1109/JSSC.2019.2912307}}
 #+end_src
 
-** TODO Open Source Hardware: Hacking Silicon for Fun (instead of profit)
-** TODO A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
+** DONE Open Source Hardware: Hacking Silicon for Fun (instead of profit)
+** DONE A History of TL-Verilog Google Summer of Code Projects under FOSSi Foundation
+
+- https://github.com/stevehoover/warp-v
+- https://arxiv.org/abs/1811.12474
+
 ** TODO UMI: Universal Memory Interface
+
+- https://github.com/zeroasiccorp/umi
+- http://cva.stanford.edu/publications/2001/onchip_dac01.pdf
+
 ** TODO ABC: The Way It Should Have Been Designed
 ** TODO BYOL (Build Your Own Linter) – UVMLint for IEEE-UVM core code development
 ** TODO Beyond EDA lies Edalize
