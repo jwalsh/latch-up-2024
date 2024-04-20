@@ -1,0 +1,5 @@
+* Analog Design Example
+.subckt analog_example in out vdd vss
+R1 in out 1k
+C1 out vss 1p 
+.ends

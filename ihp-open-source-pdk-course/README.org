@@ -1,0 +1,25 @@
+* IHP Open Source PDK Course
+
+** Course Overview
+This two-week course focuses on the SG13G2 Open Source PDK for IHP 130nm BiCMOS technology. The course covers the current state of activities for both analog and digital PDK, including the design flow using open source tools.
+
+** Topics Covered
+- Introduction to IHP 130nm BiCMOS technology and SG13G2 Open Source PDK
+- Analog PDK: Schematic driven design, simulation, layout, DRC, and LVS
+- Digital PDK: Design flow and open source tools
+- Challenges and open issues in analog and digital design flow
+- Future roadmap for the open source PDK
+
+** Code Examples
+1. Analog Design Example: [[file:analog_design_example.cir][analog_design_example.cir]]
+2. Digital Design Example: [[file:digital_design_example.v][digital_design_example.v]]
+
+** Key Questions
+By the end of this course, students should be able to answer the following questions:
+
+1. What are the key features and benefits of the IHP 130nm BiCMOS technology?
+2. How does the SG13G2 Open Source PDK enable analog and digital design using open source tools?
+3. What are the main steps involved in the analog design flow, from schematic driven design to LVS?
+4. What are the primary components of the digital design flow using open source tools?
+5. What are some of the challenges and open issues in the current analog and digital design flows using the open source PDK?
+6. How does the future roadmap aim to address these challenges and enhance the open source PDK?

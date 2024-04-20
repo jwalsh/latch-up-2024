@@ -50,7 +50,7 @@ The Latch-Up conference is a weekend of presentations and networking dedicated t
 ** Prompts 
 
 #+begin_quote
-We're going to working in a couple of steps...
+We're going to work in a couple of steps...
 
 The final output should be a code block containing a shell archive called ~setup.shar~ that creates the directory structure and files for the course. Made on for the shell archive should be for j@wal.sh. There is no source directory. 
 
