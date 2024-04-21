@@ -156,7 +156,7 @@ Let me know when you're ready...
 ** TODO Beyond EDA lies Edalize
 ** TODO RF Front-end receiver design for 2.4GH/5GHz WiFi application
 ** TODO CACE Study: Open source analog and mixed-signal design flow
-** TODO IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
+** DONE IHP Open Source PDK: Announcement, Setup, Current State and Experiences, and look ahead
 
 - https://github.com/StefanSchippers/xschem
 - https://efabless.com/
